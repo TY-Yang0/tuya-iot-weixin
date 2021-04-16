@@ -1,7 +1,7 @@
 This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.For more information, please check Tuya Developer Website
 
 <p align="center"  >
-<img width=200 src="https://images.tuyacn.com/rms-static/8f9e9d70-c805-11ea-a9da-3362f25bc183-1594973679815.png?tyName=kt.png" >
+<img width=200 src="https://github.com/TY-Yang0/tuya-iot-weixin/blob/main/QQ%E5%9B%BE%E7%89%8720210415192011.jpg?tyName=kt.png" >
 <p align="center">air conditioner</p>
 </p>
 
