@@ -1,7 +1,7 @@
 This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.For more information, please check Tuya Developer Website
 
 <p align="center"  >
-<img width=500 src="https://github.com/TY-Yang0/tuya-iot-weixin/blob/main/QQ%E5%9B%BE%E7%89%8720210415192011.jpg" >
+<img width=500 src="https://github.com/TY-Yang0/tuya-iot-weixin/blob/main/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E9%9D%A2%E6%9D%BF.jpg" >
 <p align="center"></p>
 </p>
 
