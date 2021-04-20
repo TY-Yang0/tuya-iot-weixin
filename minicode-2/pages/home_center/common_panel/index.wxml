@@ -30,12 +30,14 @@
       </block>
       <block wx:if="{{item.type === 'Integer'}}">
         <Integer model:value="{{item.value}}" values="{{item.values}}" dpCode="{{item.code}}" dpName="{{item.name}}"
-          bind:sendDp="sendDp" />
+          bind:sendDp="sendDp" /> 
       </block>
+
       <block wx:if="{{item.type === 'Enum'}}">
         <Enum model:value="{{item.value}}" values="{{item.values}}" dpCode="{{item.code}}" dpName="{{item.name}}"
           bind:sendDp="sendDp" />
       </block>
+
     </block>
   </block>
 </view>

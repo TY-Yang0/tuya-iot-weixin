@@ -3,3 +3,7 @@
   <view class="boolean-name">{{dpName}}</view>
   <van-switch checked="{{isChecked}}" bind:change="onChange" />
 </view>
+
+<view class="booleann-container">
+  <view class="booleann-name">{{'电量:75%'}}</view>
+</view>

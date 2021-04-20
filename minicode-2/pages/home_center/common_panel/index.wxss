@@ -37,6 +37,7 @@
 	color: #fff;
 }
 
+
 .common-panel-header-dpValue {
 	width: 114px;
 	height: 75px;
