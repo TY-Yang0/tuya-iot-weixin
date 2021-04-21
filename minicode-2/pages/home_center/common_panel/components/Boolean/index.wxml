@@ -5,5 +5,5 @@
 </view>
 
 <view class="booleann-container">
-  <view class="booleann-name">{{'电量:75%'}}</view>
+  <view class="booleann-name">{{'电量:0000.0KW-h'}}</view>
 </view>
